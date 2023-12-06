@@ -1,19 +1,8 @@
-<h2 align="center" style="margin-top: 0px;">Fedoraware Legacy</h2>  
+<h2 align="center" style="margin-top: 0px;">Autism Teris</h2>  
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src=".github/assets/fedoraware.png" alt="Fedoraware logo." align="center">
-</p>
-<h2 align="center" style="margin-top: 0px;">SE-Owned but coollllll</h2>
+<h2 align="center" style="margin-top: 0px;">"If you act stupid life gets harder"</h2>
 <p align="center">
-</p>  
-
-<hr/>
-
-<p align="center">
-<a href="https://github.com/Fedoraware/Fedoraware">
-<img src=".github/assets/download.png" align="center" width="100%" height="auto">
-</a>
-</p>
-
+  
 ## Notes:
 - It is required to use dxlevel 90+ due to issues with ImGui.
 - You might have issues with injecting if you are on Windows 10 upgraded from Windows 7.
