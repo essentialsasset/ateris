@@ -16,24 +16,7 @@ please dont use this cause this is shit
 - __If you have any problems, you can leave them - [Issues](https://github.com/MCPEnguXD/FedorawareLegacy/issues)__ (Dear god please link a config and follow the issue template)
 
 ## Media:  
-- [Fedoraware is the best free cheat in tf2 (by bean)](https://www.youtube.com/watch?v=FyeaMghYZL0)
-- [The Crew (by Josep)](https://www.youtube.com/watch?v=7I44S9sSOcc)
-- [Playing as Michael Jackson (by km)](https://www.youtube.com/watch?v=cVD3BBEMNPo)
-
-![Screenshot](https://camo.githubusercontent.com/4246ed2ed7372708ffdaa2fbcc1d0f9f960bbceaf970a0b45bb6026314739698/68747470733a2f2f692e696d6775722e636f6d2f42686d736471742e6a7067)
+None
 
 ## Credits to:
-  - [spook953](https://github.com/spook953)
-  - [Lak3](https://github.com/Lak3)
-  - [M-FeD](https://github.com/M-FeD)
-  - [JAGNEmk](https://github.com/JAGNEmk) (Faggot but deserves A BIT of credit)
-  - [r00t](https://github.com/l-r00t-l)
-  - [lykanfox](https://github.com/lykanfox)
-  - [km-ch](https://github.com/km-ch)
-  - [HutchyBean](https://github.com/HutchyBean)
-  - [SinnerK0N](https://github.com/SinnerK0N)
-  - [John Page The Fourth](https://github.com/relaxtakenotes)
-  - [Baan](https://github.com/tf2cheater2013) (Faggot but deserves A BIT of credit)
-  - [lnx00](https://github.com/lnx00)
-  - [stax](https://github.com/stax132349)
-  - [canedoly](https://github.com/canedoly)
+https://github.com/eternal-blu/ateris-technologies
