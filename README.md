@@ -2,7 +2,7 @@
 <p align="center" style="margin-bottom: 0px !important;">
 <h2 align="center" style="margin-top: 0px;">"If you act stupid life gets harder"</h2>
 <p align="center">
-- please dont use this cause this is shit
+please dont use this cause this is shit
   
 ## Notes:
 - It is required to use dxlevel 90+ due to issues with ImGui.
