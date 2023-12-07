@@ -4,11 +4,9 @@
 <p align="center">
 please dont use this cause this is shit
   
-## Notes:
-- It is required to use dxlevel 90+ due to issues with ImGui.
-- You might have issues with injecting if you are on Windows 10 upgraded from Windows 7.
-- The source code is most likely __DETECTED__, use [VAC Bypass by danielkrupinski](https://github.com/danielkrupinski/VAC-Bypass). In the event you get VAC Banned, we are not responsible. Don't cheat on accounts you care about.
-- Read the [Fedoraware Documentation](https://fedoraware.github.io/Docs/) to learn more about Fedoraware and its Features.
+## Issues(Bugs)
+- Killsay crashes the game
+
 
 ## Guide:
 - !!!!THIS IS NOT SUPPORTED BY FEDORAWARE LEGACY!!!! We suggest using [Fedoraloader](https://github.com/lnx00/Fedoraloader/releases/) as it downloads the latest build and injects it with minimal crashing. It also includes VAC Bypass
